@@ -1,0 +1,56 @@
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.csprojAssemblyReference.cache
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.Properties.Resources.resources
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.csproj.GenerateResource.cache
+C:\Users\Mr Tokin\source\repos\kl\kl\bin\Debug\kl.exe.config
+C:\Users\Mr Tokin\source\repos\kl\kl\bin\Debug\kl.exe
+C:\Users\Mr Tokin\source\repos\kl\kl\bin\Debug\kl.pdb
+C:\Users\Mr Tokin\source\repos\kl\kl\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.csproj.CopyComplete
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.exe
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.pdb
+C:\Users\Mr Tokin\source\repos\kl\kl\obj\Debug\kl.Form1.resources
+D:\Загрузки\kl-master\kl\bin\Debug\kl.exe.config
+D:\Загрузки\kl-master\kl\bin\Debug\kl.exe
+D:\Загрузки\kl-master\kl\bin\Debug\kl.pdb
+D:\Загрузки\kl-master\kl\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Загрузки\kl-master\kl\obj\Debug\kl.csprojAssemblyReference.cache
+D:\Загрузки\kl-master\kl\obj\Debug\kl.Form1.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.Properties.Resources.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.csproj.GenerateResource.cache
+D:\Загрузки\kl-master\kl\obj\Debug\kl.csproj.CoreCompileInputs.cache
+D:\Загрузки\kl-master\kl\obj\Debug\kl.csproj.CopyComplete
+D:\Загрузки\kl-master\kl\obj\Debug\kl.exe
+D:\Загрузки\kl-master\kl\obj\Debug\kl.pdb
+D:\Загрузки\kl-master\kl\obj\Debug\kl.dannie.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.author.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.genre.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.publish.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.user.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.book.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.rule.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.access.resources
+D:\Загрузки\kl-master\kl\obj\Debug\kl.journal.resources
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\kl.exe.config
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\kl.exe
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\kl.pdb
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.csprojAssemblyReference.cache
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.access.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.author.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.book.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.dannie.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.Form1.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.genre.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.journal.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.Properties.Resources.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.publish.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.rule.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.user.resources
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.csproj.GenerateResource.cache
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.csproj.CoreCompileInputs.cache
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.csproj.CopyComplete
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.exe
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.pdb
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\Newtonsoft.Json.dll
+C:\MrTokin\Documents\repos\kl-master\kl\bin\Debug\Newtonsoft.Json.xml
+C:\MrTokin\Documents\repos\kl-master\kl\obj\Debug\kl.connect.resources
